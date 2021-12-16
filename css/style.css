@@ -1,0 +1,285 @@
+/* font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif; */
+*{
+margin: 0;
+padding: 0;
+
+}
+header{
+
+width: 90%;
+margin: auto;
+overflow: hidden;
+padding: 30px 0;
+
+}
+.logo{
+width: 20%;
+float: left;
+}
+.menu{
+width: 60%;
+float: right;
+overflow: hidden;
+}
+.menu ul{
+
+margin: 0;
+padding: 0;
+list-style: none;
+overflow: hidden;
+float: right;
+
+}
+.menu ul li{
+float: left;
+margin-left: 70px;
+}
+.menu ul li a{
+color: #626262;
+text-decoration: none;
+text-transform: uppercase;
+font-family: 'Playfair Display', serif;
+}
+.banner{padding-top: 30px;width: 90%;margin: auto;}
+.banner img{
+width: 100%;
+}
+.photodiary{
+
+width: 80%;
+
+margin: auto;
+
+padding: 50px 0;
+}
+.photodiary h5{
+        
+    font-family: 'Ubuntu', sans-serif;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin: 0;
+    font-weight: 500;}
+.photodiary h1{
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    margin: 20px 0;
+    font-size: 30px;
+
+}
+.photodiary p{
+font-family: 'Playfair Display', serif;
+margin: 0;
+color: #626262;
+margin-bottom: 40px;
+}
+.lifestyle{
+overflow: hidden;
+width: 80%;
+margin: auto;
+padding: 100px 0;
+}
+.lifestyle img{
+margin-bottom: 30px;
+width: 100%;
+}
+.lifestyle h5{
+    font-family: 'Ubuntu', sans-serif;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    font-size: 16px;
+    margin: 0;
+    font-weight: 500;
+
+}
+.lifestyle h1{
+
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    margin: 20px 0;
+    font-size: 30px;
+
+}
+.lifestyle p{
+font-family: 'Playfair Display', serif;
+margin: 0;
+color: #626262;
+margin-bottom: 40px;
+
+}
+
+.lifestyle_one{
+    width: 48%;
+    float: left;
+}
+
+
+.lifestyle_two{
+    width: 48%;
+    float: right;
+
+}
+
+.photodiary{
+    overflow: hidden;
+    width: 80%;
+    margin: auto;
+    padding: 50px 0;
+    }
+    .photodiary img{
+    margin-bottom: 30px;
+    width: 100%;
+    }
+    .photodiary h5{
+        font-family: 'Ubuntu', sans-serif;
+        color: #b4ad9e;
+        text-transform: uppercase;
+        font-size: 16px;
+        margin: 0;
+        font-weight: 500;
+    
+    }
+    .photodiary h1{
+    
+        font-family: 'Playfair Display', serif;
+        color: #626262;
+        margin: 20px 0;
+        font-size: 30px;
+    
+    }
+    .photodiary p{
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+    color: #626262;
+    margin-bottom: 40px;
+    
+    }
+
+.photodiary_one{
+    width: 48%;
+    float: left;
+}
+
+
+.photodiary_two{
+    width: 48%;
+    float: right;
+
+}
+
+.newsletter{
+
+background: #f0f0f0;
+
+padding: 100px 0;
+}
+.newsletter_content{
+
+width: 25%;
+
+margin: auto;
+}
+.newsletter_content h1{font-family: 'Playfair Display', serif;color: #626262;margin: 20px 0;font-size: 26px;text-transform: capitalize;}
+
+.newsletter_content input{
+    
+background: transparent;
+    
+border: none;
+    
+border-bottom: 1px solid black;
+    
+width: 100%;
+    
+margin-top: 30px;
+}
+.newsletter_content input::placeholder{
+    color: #626262;
+    font-family: 'Playfair Display', serif;
+    font-size: 16px;
+
+}
+.loadmore{
+
+padding: 100px 0;
+
+text-align: center;
+
+}
+.loadmore button{
+    
+background: transparent;
+            
+border: 1px solid black;
+    
+padding: 15px 30px;
+    
+font-family: 'Playfair Display', serif;
+    
+color: #626262;
+    
+margin: 20px 0;
+    
+font-size: 20px;
+}
+
+footer{
+
+background: #f0f0f0;
+
+padding: 40px 0;
+}
+
+.footer_content{width: 80%;margin: auto;overflow: hidden;}
+.terms{
+
+width: 30%;
+
+float: left;
+} 
+.terms ul{
+
+margin: 0;
+
+padding: 0;
+
+list-style: none;
+
+overflow: hidden;
+}
+.terms ul li{
+
+float: left;
+
+margin-right: 30px;
+}
+.terms ul li a{
+
+color: #626262;
+
+text-decoration: none;
+}
+.social_link{
+
+width: 30%;
+
+float: right;
+}
+.social_link ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: right;}
+.social_link ul li{
+
+float: right;
+
+margin-left: 30px;
+}
+.social_link ul li a{
+
+color: #626262;
+
+text-decoration: none;
+}
